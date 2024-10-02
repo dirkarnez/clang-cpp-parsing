@@ -12,3 +12,4 @@ clang-cpp-parsing
 - [jinja2cpp/examples-boost.beast: Jinja2Cpp usage sample with the Boost.Beast library](https://github.com/jinja2cpp/examples-boost.beast)
 - [jinja2cpp/tools-cli: Command-line tool for templates processing with Jinja2Cpp](https://github.com/jinja2cpp/tools-cli)
 - [jinja2cpp/Jinja2Cpp: Jinja2 C++ (and for C++) almost full-conformance template engine implementation](https://github.com/jinja2cpp/Jinja2Cpp)
+- [Automatic C++ source code generation with clang - Sergei Sadovnikov [ACCU 2017] - YouTube](https://www.youtube.com/watch?v=aPTyatTI42k)
