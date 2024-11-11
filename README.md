@@ -14,3 +14,4 @@ clang-cpp-parsing
 - [jinja2cpp/Jinja2Cpp: Jinja2 C++ (and for C++) almost full-conformance template engine implementation](https://github.com/jinja2cpp/Jinja2Cpp)
 - [Automatic C++ source code generation with clang - Sergei Sadovnikov [ACCU 2017] - YouTube](https://www.youtube.com/watch?v=aPTyatTI42k)
 - [sztomi/code-generator: Contains the full source for my article about implementing a code generator with libclang.](https://github.com/sztomi/code-generator/tree/master)  
+- [clang: libclang: C Interface to Clang](https://clang.llvm.org/doxygen/group__CINDEX.html)
